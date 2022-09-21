@@ -1,4 +1,5 @@
 Fiangumilar Resolution
 - Consistently learn and understand programming languages
 - Focus on BackDev
-- Dominate the PHP and Javascript programming languages
+- Dominate Javascript and Framework programming languages
+
